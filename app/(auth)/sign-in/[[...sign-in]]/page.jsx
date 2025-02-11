@@ -25,7 +25,7 @@ export default function Page() {
         <main className="flex items-center justify-center px-8 py-12 lg:col-span-7 xl:col-span-6">
           <div className="max-w-md w-full space-y-6 text-center">
             <h1 className="text-4xl font-extrabold text-gray-900 drop-shadow-md">
-              Sign In to EchoEase
+            Transforming Speech
             </h1>
             <p className="text-gray-600 text-lg">Start your journey to fluent and confident speech.</p>
             <div className="p-6 rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300">
